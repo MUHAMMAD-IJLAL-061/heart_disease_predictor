@@ -97,3 +97,25 @@ pip install -r requirements.txt
 Run the application:
 
 streamlit run app.py
+⚠️ Disclaimer
+
+This application is developed for educational and research purposes only.
+It is not intended for medical diagnosis or clinical use.
+
+📌 Future Enhancements
+
+PDF report generation for predictions
+
+Export prediction history as CSV
+
+Model explainability (feature importance visualization)
+
+User authentication system
+
+Integration with cloud databases
+
+👨‍🎓 Author
+
+Muhammad Ijlal
+Undergraduate Student – Robotics / Computer Science
+Machine Learning & AI Enthusiast
